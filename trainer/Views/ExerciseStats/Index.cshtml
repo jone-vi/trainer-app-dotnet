@@ -1,0 +1,40 @@
+@model IEnumerable<trainer.Models.Exercise>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="row row-fill-height d-flex flex-column flex-nowrap">
+    
+    <div class="d-flex flex-row flex-wrap col-lg-6 p-3 pt-5 flex-fill" style="width: 100%;">
+        <h1 class="text-light mx-2 col-12">
+            Statistics
+        </h1>
+        <select class="my-2 dropdown-toggle mx-2" id="muscleGroupFilterStats" name="MuscleGroupFilterStats" style="height: 3rem;">
+            <option>Show From All Muscle Groups</option>
+            @foreach (var muscleGroup in Model.Select(e => e.MuscleGroup).Distinct().OrderBy(e => e))
+            {
+                <option>@muscleGroup</option>
+            }
+        </select>
+        <select class="my-2 mx-2 dropdown-toggle exerciseFilterStats" data-nr="1" name="ExerciseFilterStats" style="height: 3rem;">
+            <option>None</option>
+            @foreach (var exercise in Model)
+            {
+                <option value="@exercise.Id" data-muscle-group="@exercise.MuscleGroup">@exercise.Name</option>
+            }
+        </select>
+        <select class="my-2 dropdown-toggle exerciseFilterStats mx-2" data-nr="2" name="ExerciseFilterStats" style="height: 3rem;">
+            <option>None</option>
+            @foreach (var exercise in Model)
+            {
+                <option value="@exercise.Id" data-muscle-group="@exercise.MuscleGroup">@exercise.Name</option>
+            }
+        </select>
+    </div>
+    <div id="chartContainer" class="mx-auto flex-fill">
+        <h2 id="chartHeadline" class="text-light m-3">1 Rep Max</h2>
+        <canvas id="myChart" style="height: 90%" class="my-auto"></canvas>
+    </div>
+</div>

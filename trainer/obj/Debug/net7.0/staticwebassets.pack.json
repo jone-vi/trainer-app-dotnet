@@ -1,0 +1,3081 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/obj/Debug/net7.0/scopedcss/projectbundle/trainer.bundle.scp.css",
+      "PackagePath": "staticwebassets/trainer.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/account.css",
+      "PackagePath": "staticwebassets/css/account.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/admin.css",
+      "PackagePath": "staticwebassets/css/admin.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/landingpage.css",
+      "PackagePath": "staticwebassets/css/landingpage.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/layout.css",
+      "PackagePath": "staticwebassets/css/layout.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/notifications.css",
+      "PackagePath": "staticwebassets/css/notifications.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/social.css",
+      "PackagePath": "staticwebassets/css/social.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/css/workoutRutinesAndLog.css",
+      "PackagePath": "staticwebassets/css/workoutRutinesAndLog.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/icons/bell.svg",
+      "PackagePath": "staticwebassets/icons/bell.svg"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/.DS_Store",
+      "PackagePath": "staticwebassets/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/frontPageBanner.png",
+      "PackagePath": "staticwebassets/img/frontPageBanner.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/frontPageBannerNew.png",
+      "PackagePath": "staticwebassets/img/frontPageBannerNew.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/03aea7a415fcc04ec8f3602f767b72b4.gif",
+      "PackagePath": "staticwebassets/img/gifs/03aea7a415fcc04ec8f3602f767b72b4.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/1-2-Stick-Drill-Plyometrics.gif",
+      "PackagePath": "staticwebassets/img/gifs/1-2-Stick-Drill-Plyometrics.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/10301301-Lever-Pec-Deck-Fly_Chest_720.gif",
+      "PackagePath": "staticwebassets/img/gifs/10301301-Lever-Pec-Deck-Fly_Chest_720.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/45-Degree-Incline-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/45-Degree-Incline-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Ab-Coaster-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Ab-Coaster-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Ab-Roller-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Ab-Roller-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Ab-Straps-Leg-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Ab-Straps-Leg-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Above-Head-Chest-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Above-Head-Chest-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Across-Chest-Shoulder-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Across-Chest-Shoulder-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Adductor-Magnus-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Adductor-Magnus-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Alternate-Dumbbell-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Alternate-Dumbbell-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Alternate-Leg-Raises.gif",
+      "PackagePath": "staticwebassets/img/gifs/Alternate-Leg-Raises.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Alternate-Lying-Floor-Leg-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Alternate-Lying-Floor-Leg-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Alternating-Dumbbell-Front-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Alternating-Dumbbell-Front-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Arm-Blaster-Hammer-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Arm-Blaster-Hammer-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Arm-Circles_Shoulders.gif",
+      "PackagePath": "staticwebassets/img/gifs/Arm-Circles_Shoulders.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Arm-Scissors.gif",
+      "PackagePath": "staticwebassets/img/gifs/Arm-Scissors.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Arnold-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Arnold-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Asisted-Triceps-Dips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Asisted-Triceps-Dips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Assault-Air-Runner.gif",
+      "PackagePath": "staticwebassets/img/gifs/Assault-Air-Runner.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Assault-AirBike.gif",
+      "PackagePath": "staticwebassets/img/gifs/Assault-AirBike.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Assisted-Chest-Dip.gif",
+      "PackagePath": "staticwebassets/img/gifs/Assisted-Chest-Dip.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Assisted-Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Assisted-Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Astride-Jumps.gif",
+      "PackagePath": "staticwebassets/img/gifs/Astride-Jumps.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/BARBELL-SQUAT.gif",
+      "PackagePath": "staticwebassets/img/gifs/BARBELL-SQUAT.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/BODYWEIGHT-SUMO-SQUAT.gif",
+      "PackagePath": "staticwebassets/img/gifs/BODYWEIGHT-SUMO-SQUAT.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Back-Pec-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Back-Pec-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Backward-Jumping.gif",
+      "PackagePath": "staticwebassets/img/gifs/Backward-Jumping.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Backwards-Running.gif",
+      "PackagePath": "staticwebassets/img/gifs/Backwards-Running.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Band-Assisted-Sprinter-Run.gif",
+      "PackagePath": "staticwebassets/img/gifs/Band-Assisted-Sprinter-Run.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Band-Biceps-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Band-Biceps-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Band-pull-apart.gif",
+      "PackagePath": "staticwebassets/img/gifs/Band-pull-apart.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Alternate-Biceps-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Alternate-Biceps-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Bent-Over-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Bent-Over-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Bulgarian-Split-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Bulgarian-Split-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Clean-and-Press-.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Clean-and-Press-.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Curl-On-Arm-Blaster.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Curl-On-Arm-Blaster.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Deadlift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Deadlift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Drag-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Drag-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Finger-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Finger-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Good-Morning.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Good-Morning.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Hack-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Hack-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Lateral-Lunge.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Lateral-Lunge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Lunge.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Lunge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-One-Arm-Floor-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-One-Arm-Floor-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Rear-Delt-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Rear-Delt-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Reverse-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Reverse-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Reverse-Wrist-Curl-Over-a-Bench.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Reverse-Wrist-Curl-Over-a-Bench.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Reverse-Wrist-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Reverse-Wrist-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Romanian-Deadlift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Romanian-Deadlift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Seated-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Seated-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Seated-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Seated-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Side-Bend.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Side-Bend.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Standing-Military-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Standing-Military-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Step-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Step-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Sumo-Deadlift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Sumo-Deadlift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Barbell-Upright-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Barbell-Upright-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Battle-Rope.gif",
+      "PackagePath": "staticwebassets/img/gifs/Battle-Rope.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bear-Crawl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bear-Crawl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Behind-The-Back-Barbell-Shrug-Reverse-Barbell-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Behind-The-Back-Barbell-Shrug-Reverse-Barbell-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Behind-The-Back-Barbell-Wrist-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Behind-The-Back-Barbell-Wrist-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bench-Dips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bench-Dips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bench-Press-Machine-Standing-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bench-Press-Machine-Standing-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bench-Side-Bend.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bench-Side-Bend.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bench-Supported-Dumbbell-External-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bench-Supported-Dumbbell-External-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bent-Over-Barbell-Reverse-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bent-Over-Barbell-Reverse-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bent-Over-Dumbbell-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bent-Over-Dumbbell-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bent-Over-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bent-Over-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bent-Over-Rear-Delt-Fly-Gymstick.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bent-Over-Rear-Delt-Fly-Gymstick.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bent-Over-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bent-Over-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bicep-Curl-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bicep-Curl-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Biceps-Leg-Concentration-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Biceps-Leg-Concentration-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bicycle-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bicycle-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bike.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bike.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Boat-Pose-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Boat-Pose-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Body-Ups.gif",
+      "PackagePath": "staticwebassets/img/gifs/Body-Ups.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bodyweight-Military-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bodyweight-Military-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bodyweight-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bodyweight-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Bodyweight-Windmill.gif",
+      "PackagePath": "staticwebassets/img/gifs/Bodyweight-Windmill.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Box-Jump-1-to-2.gif",
+      "PackagePath": "staticwebassets/img/gifs/Box-Jump-1-to-2.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Box-Jump-2-to-1.gif",
+      "PackagePath": "staticwebassets/img/gifs/Box-Jump-2-to-1.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Box-Jump-to-Pistol-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Box-Jump-to-Pistol-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Boxer-Shuffle-Cardio.gif",
+      "PackagePath": "staticwebassets/img/gifs/Boxer-Shuffle-Cardio.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Boxing-Right-Cross-with-boxing-bag.gif",
+      "PackagePath": "staticwebassets/img/gifs/Boxing-Right-Cross-with-boxing-bag.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Brachialis-Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Brachialis-Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Briskly-Walking.gif",
+      "PackagePath": "staticwebassets/img/gifs/Briskly-Walking.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Butt-Kicks.gif",
+      "PackagePath": "staticwebassets/img/gifs/Butt-Kicks.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/CHAIR-DIPS.gif",
+      "PackagePath": "staticwebassets/img/gifs/CHAIR-DIPS.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Bent-Over-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Bent-Over-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Concentration-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Concentration-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Concentration-Extension-on-knee.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Concentration-Extension-on-knee.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Crossover-Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Crossover-Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Crossover.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Crossover.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-External-Shoulder-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-External-Shoulder-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Front-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Front-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Hips-Adduction.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Hips-Adduction.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Incline-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Incline-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Internal-Shoulder-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Internal-Shoulder-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Kneeling-Biceps-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Kneeling-Biceps-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Lying-Triceps-Extensions.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Lying-Triceps-Extensions.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-One-Arm-Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-One-Arm-Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-One-Arm-Overhead-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-One-Arm-Overhead-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-One-Arm-Wrist-Curl-On-Floor.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-One-Arm-Wrist-Curl-On-Floor.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Pulldown-Bicep-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Pulldown-Bicep-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Rear-Drive.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Rear-Drive.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Rear-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Rear-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Reverse-Grip-EZ-bar-Biceps-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Reverse-Grip-EZ-bar-Biceps-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Rope-Overhead-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Rope-Overhead-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Seated-Cross-Arm-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Seated-Cross-Arm-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Seated-Neck-Extension-with-head-harness.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Seated-Neck-Extension-with-head-harness.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Seated-Neck-Flexion-with-head-harness.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Seated-Neck-Flexion-with-head-harness.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Seated-Pullover.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Seated-Pullover.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Seated-Shoulder-Internal-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Seated-Shoulder-Internal-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Side-Bend.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Side-Bend.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Side-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Side-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Straight-Arm-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Straight-Arm-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Tricep-Kickback.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Tricep-Kickback.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Upper-Chest-Crossovers.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Upper-Chest-Crossovers.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cable-Upright-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cable-Upright-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Calf-Raise-with-Resistance-Band.gif",
+      "PackagePath": "staticwebassets/img/gifs/Calf-Raise-with-Resistance-Band.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Calf-Stretch-with-Rope.gif",
+      "PackagePath": "staticwebassets/img/gifs/Calf-Stretch-with-Rope.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Calves-Stretch-Static-Position.gif",
+      "PackagePath": "staticwebassets/img/gifs/Calves-Stretch-Static-Position.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Captains-Chair-Leg-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Captains-Chair-Leg-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Chest-Dips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Chest-Dips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Chin-Tuck.gif",
+      "PackagePath": "staticwebassets/img/gifs/Chin-Tuck.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Chin-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Chin-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Clap-Push-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Clap-Push-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Close-Grip-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Close-Grip-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Close-Grip-Chin-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Close-Grip-Chin-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Close-Grip-Dumbbell-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Close-Grip-Dumbbell-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Close-Grip-Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Close-Grip-Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Close-Grip-Z-Bar-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Close-Grip-Z-Bar-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Close-grip-Incline-Dumbbell-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Close-grip-Incline-Dumbbell-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Concentration-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Concentration-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cossack-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cossack-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Crab-Twist-Toe-Touch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Crab-Twist-Toe-Touch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cross-Arm-Push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cross-Arm-Push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cross-Body-Mountain-Climber.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cross-Body-Mountain-Climber.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cross-Cable-Face-Pull.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cross-Cable-Face-Pull.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Cross-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Cross-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Crouching-Heel-Back-Calf-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Crouching-Heel-Back-Calf-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Crunch-With-Leg-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Crunch-With-Leg-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Curtsey-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Curtsey-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dead-Bug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dead-Bug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Barbell-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Barbell-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Cable-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Cable-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Chest-Press-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Chest-Press-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Close-Grip-Bench-To-Skull-Crusher.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Close-Grip-Bench-To-Skull-Crusher.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Dumbbell-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Dumbbell-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Dumbbell-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Dumbbell-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Push-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Push-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Decline-Sit-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Decline-Sit-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Depth-Jump-to-Hurdle-Hop.gif",
+      "PackagePath": "staticwebassets/img/gifs/Depth-Jump-to-Hurdle-Hop.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Diagonal-Neck-Stretch-360x360.png",
+      "PackagePath": "staticwebassets/img/gifs/Diagonal-Neck-Stretch-360x360.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Diagonal-Neck-Stretch.png",
+      "PackagePath": "staticwebassets/img/gifs/Diagonal-Neck-Stretch.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Diamond-Push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Diamond-Push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dip-Shrugs.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dip-Shrugs.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dips-Between-Chairs.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dips-Between-Chairs.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Donkey-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Donkey-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Double-Arm-Dumbbell-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Double-Arm-Dumbbell-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Double-Cable-Front-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Double-Cable-Front-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Double-Cable-Neutral-Grip-Lat-Pulldown-On-Floor.gif",
+      "PackagePath": "staticwebassets/img/gifs/Double-Cable-Neutral-Grip-Lat-Pulldown-On-Floor.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Double-Leg-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Double-Leg-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Drop-Push-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Drop-Push-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-4-Ways-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-4-Ways-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-6-Ways-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-6-Ways-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Alternate-Preacher-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Alternate-Preacher-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Bent-Arm-Laterl-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Bent-Arm-Laterl-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Bent-Over-Reverse-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Bent-Over-Reverse-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Bulgarian-Split-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Bulgarian-Split-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Burpees.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Burpees.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Chest-Supported-Lateral-Raises.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Chest-Supported-Lateral-Raises.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Cuban-External-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Cuban-External-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Curl-On-Arm-Blaster.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Curl-On-Arm-Blaster.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Decline-One-Arm-Hammer-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Decline-One-Arm-Hammer-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Decline-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Decline-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Front-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Front-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Goblet-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Goblet-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Good-Morning.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Good-Morning.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-High-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-High-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Incline-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Incline-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Incline-T-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Incline-T-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Incline-Two-Arm-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Incline-Two-Arm-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Jump-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Jump-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Kickback.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Kickback.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Lateral-Step-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Lateral-Step-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Lateral-to-Front-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Lateral-to-Front-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Lunge.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Lunge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Lying-External-Shoulder-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Lying-External-Shoulder-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Lying-One-Arm-Rear-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Lying-One-Arm-Rear-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-One-Arm-Reverse-Grip-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-One-Arm-Reverse-Grip-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-One-Arm-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-One-Arm-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Preacher-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Preacher-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Preacher-Hammer-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Preacher-Hammer-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Press-1.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Press-1.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Pullover-On-Stability-Ball.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Pullover-On-Stability-Ball.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Pullover.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Pullover.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Push-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Push-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Rear-Delt-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Rear-Delt-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Rear-Lunge.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Rear-Lunge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Reverse-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Reverse-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Romanian-Deadlift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Romanian-Deadlift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Scaption.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Scaption.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Scott-Hammer-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Scott-Hammer-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Seated-Bent-Over-Rear-Delt-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Seated-Bent-Over-Rear-Delt-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Seated-Front-and-Back-Tate-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Seated-Front-and-Back-Tate-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Seated-Gittleson-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Seated-Gittleson-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Seated-Neutral-Wrist-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Seated-Neutral-Wrist-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Side-Lying-Rear-Delt-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Side-Lying-Rear-Delt-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Skull-Crusher.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Skull-Crusher.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Split-Jump.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Split-Jump.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Standing-Palms-In-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Standing-Palms-In-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Straight-Leg-Deadlift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Straight-Leg-Deadlift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Upright-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Upright-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Upward-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Upward-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-V-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-V-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-W-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-W-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbbell-Wrist-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbbell-Wrist-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dumbeel-Step-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dumbeel-Step-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Dynamic-Chest-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Dynamic-Chest-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/EZ-Bar-Underhand-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/EZ-Bar-Underhand-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/EZ-Barbell-Incline-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/EZ-Barbell-Incline-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Elbow-Reverse-Push-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Elbow-Reverse-Push-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Elbow-To-Knee-Twists.gif",
+      "PackagePath": "staticwebassets/img/gifs/Elbow-To-Knee-Twists.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Elliptical-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Elliptical-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Exercise-Ball-Frog-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Exercise-Ball-Frog-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Exercise-Ball-Supine-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Exercise-Ball-Supine-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Face-Pull.gif",
+      "PackagePath": "staticwebassets/img/gifs/Face-Pull.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Farmers-walk_Cardio.gif",
+      "PackagePath": "staticwebassets/img/gifs/Farmers-walk_Cardio.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Fast-Feet-Run.gif",
+      "PackagePath": "staticwebassets/img/gifs/Fast-Feet-Run.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Feet-and-Ankle-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Feet-and-Ankle-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Fish-Pose-Matsyasana.gif",
+      "PackagePath": "staticwebassets/img/gifs/Fish-Pose-Matsyasana.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Flexor-Incline-Dumbbell-Curls.gif",
+      "PackagePath": "staticwebassets/img/gifs/Flexor-Incline-Dumbbell-Curls.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Floor-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Floor-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Floor-Hyperextension-1.gif",
+      "PackagePath": "staticwebassets/img/gifs/Floor-Hyperextension-1.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Foam-Roller-Calves.gif",
+      "PackagePath": "staticwebassets/img/gifs/Foam-Roller-Calves.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Foam-Roller-Upper-Back.gif",
+      "PackagePath": "staticwebassets/img/gifs/Foam-Roller-Upper-Back.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Foot-and-Ankles-Stretches.gif",
+      "PackagePath": "staticwebassets/img/gifs/Foot-and-Ankles-Stretches.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Front-Plank-With-Arm-And-Leg-Lift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Front-Plank-With-Arm-And-Leg-Lift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Front-Plank-with-Arm-Lift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Front-Plank-with-Arm-Lift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Front-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Front-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Front-and-Back-Neck-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Front-and-Back-Neck-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Front-to-Side-Plank.gif",
+      "PackagePath": "staticwebassets/img/gifs/Front-to-Side-Plank.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Full-Crunch-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Full-Crunch-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Full-Range-Of-Motion-Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Full-Range-Of-Motion-Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hack-Machine-One-Leg-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hack-Machine-One-Leg-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hack-Squat-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hack-Squat-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Half-Arnold-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Half-Arnold-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Half-Kneeling-Cable-External-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Half-Kneeling-Cable-External-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Half-Kneeling-High-Cable-Row-Rope.gif",
+      "PackagePath": "staticwebassets/img/gifs/Half-Kneeling-High-Cable-Row-Rope.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Half-Kneeling-Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Half-Kneeling-Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hammer-Curl-with-Resistance-Band.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hammer-Curl-with-Resistance-Band.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hammer-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hammer-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hamstrings-Lying-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hamstrings-Lying-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hand-Gripper.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hand-Gripper.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hands-Bike.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hands-Bike.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hanging-Knee-Raises.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hanging-Knee-Raises.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hanging-Leg-Raises.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hanging-Leg-Raises.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hanging-Side-Knee-Raises.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hanging-Side-Knee-Raises.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hanging-Windshield-Wiper.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hanging-Windshield-Wiper.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hawaiian-Squat-exercise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hawaiian-Squat-exercise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Heel-Touch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Heel-Touch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/High-Cable-Crossover.gif",
+      "PackagePath": "staticwebassets/img/gifs/High-Cable-Crossover.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/High-Cable-Single-Arm-Bicep-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/High-Cable-Single-Arm-Bicep-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/High-Knee-Run.gif",
+      "PackagePath": "staticwebassets/img/gifs/High-Knee-Run.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/High-Knee-Skips_Cardio.gif",
+      "PackagePath": "staticwebassets/img/gifs/High-Knee-Skips_Cardio.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/High-Knee-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/High-Knee-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/High-Knees-against-wall.gif",
+      "PackagePath": "staticwebassets/img/gifs/High-Knees-against-wall.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/High-Pulley-Overhead-Tricep-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/High-Pulley-Overhead-Tricep-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Hook-Kick-Kickboxing-with-boxing-bag.gif",
+      "PackagePath": "staticwebassets/img/gifs/Hook-Kick-Kickboxing-with-boxing-bag.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/INNER-THIGH-SIDE-STRETCH.gif",
+      "PackagePath": "staticwebassets/img/gifs/INNER-THIGH-SIDE-STRETCH.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Impossible-Dips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Impossible-Dips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Inchworm.gif",
+      "PackagePath": "staticwebassets/img/gifs/Inchworm.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Barbell-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Barbell-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Barbell-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Barbell-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Cable-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Cable-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Chest-Fly-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Chest-Fly-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Dumbbel-Hammer-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Dumbbel-Hammer-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Dumbbell-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Dumbbell-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Dumbbell-Side-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Dumbbell-Side-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Dumbbell-Y-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Dumbbell-Y-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Leg-Hip-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Leg-Hip-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Push-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Push-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Reverse-Grip-Dumbbell-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Reverse-Grip-Dumbbell-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-Treadmill.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-Treadmill.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Incline-dumbbell-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Incline-dumbbell-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Inner-Chest-Press-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Inner-Chest-Press-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Inverted-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Inverted-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Jab-Boxing.gif",
+      "PackagePath": "staticwebassets/img/gifs/Jab-Boxing.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Jack-Burpees.gif",
+      "PackagePath": "staticwebassets/img/gifs/Jack-Burpees.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Jump-Rope.gif",
+      "PackagePath": "staticwebassets/img/gifs/Jump-Rope.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Jump-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Jump-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Jumping-jack.gif",
+      "PackagePath": "staticwebassets/img/gifs/Jumping-jack.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Arnold-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Arnold-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Bent-Over-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Bent-Over-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Chest-Press-on-the-Floor.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Chest-Press-on-the-Floor.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Clean-and-Jerk.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Clean-and-Jerk.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-One-Arm-Military-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-One-Arm-Military-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Pistol-Squats.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Pistol-Squats.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Split-Snatch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Split-Snatch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Swings.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Swings.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kettlebell-Windmill.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kettlebell-Windmill.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Knee-Push-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Knee-Push-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kneeling-Cable-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kneeling-Cable-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kneeling-Cable-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kneeling-Cable-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kneeling-High-Pulley-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kneeling-High-Pulley-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kneeling-Neck-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kneeling-Neck-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kneeling-Push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kneeling-Push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kneeling-Quad-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kneeling-Quad-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Kneeling-Single-Arm-High-Pulley-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Kneeling-Single-Arm-High-Pulley-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Korean-Dips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Korean-Dips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/L-Sit.gif",
+      "PackagePath": "staticwebassets/img/gifs/L-Sit.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/LEG-EXTENSION.gif",
+      "PackagePath": "staticwebassets/img/gifs/LEG-EXTENSION.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Landmine-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Landmine-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Landmine-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Landmine-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lateral-Raise-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lateral-Raise-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lateral-Speed-Step.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lateral-Speed-Step.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lateral-Step-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lateral-Step-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Leaning-Cable-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Leaning-Cable-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Leaning-Single-Arm-Dumbbell-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Leaning-Single-Arm-Dumbbell-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Leg-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Leg-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Leg-Press-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Leg-Press-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Leg-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Leg-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Leg-Raise-Dragon-Flag.gif",
+      "PackagePath": "staticwebassets/img/gifs/Leg-Raise-Dragon-Flag.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Cable-Rear-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Cable-Rear-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Chest-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Chest-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Crossovers.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Crossovers.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Deadlift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Deadlift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Donkey-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Donkey-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Gripless-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Gripless-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Incline-Chest-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Incline-Chest-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Incline-Hammer-Chest-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Incline-Hammer-Chest-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Lying-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Lying-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Neck-Extension-plate-loaded.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Neck-Extension-plate-loaded.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Neck-Right-Side-Flexion-plate-loaded.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Neck-Right-Side-Flexion-plate-loaded.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-One-Arm-Chest-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-One-Arm-Chest-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Overhand-Triceps-Dip.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Overhand-Triceps-Dip.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Preacher-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Preacher-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Reverse-T-Bar-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Reverse-T-Bar-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Seated-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Seated-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Seated-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Seated-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Side-Hip-Abduction.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Side-Hip-Abduction.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Side-Hip-Adduction.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Side-Hip-Adduction.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Standing-Leg-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Standing-Leg-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-T-bar-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-T-bar-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lever-Tricep-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lever-Tricep-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Long-Jump-Plyometrics.gif",
+      "PackagePath": "staticwebassets/img/gifs/Long-Jump-Plyometrics.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Low-Cable-Crossover.gif",
+      "PackagePath": "staticwebassets/img/gifs/Low-Cable-Crossover.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lunging-Straight-Leg-Calf-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lunging-Straight-Leg-Calf-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Cable-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Cable-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Cable-Reverse-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Cable-Reverse-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Chest-Press-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Chest-Press-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Dumbbell-Leg-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Dumbbell-Leg-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Extension-Pullover.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Extension-Pullover.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-High-Bench-Barbell-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-High-Bench-Barbell-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Knee-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Knee-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Leg-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Leg-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Scissor-Kick.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Scissor-Kick.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Weighted-Lateral-Neck-Flexion.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Weighted-Lateral-Neck-Flexion.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Weighted-Neck-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Weighted-Neck-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-Weighted-Neck-Flexion.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-Weighted-Neck-Flexion.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Lying-glute-stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Lying-glute-stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Mountain-climber.gif",
+      "PackagePath": "staticwebassets/img/gifs/Mountain-climber.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Muscle-up-vertical-bar.gif",
+      "PackagePath": "staticwebassets/img/gifs/Muscle-up-vertical-bar.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Narrow-Grip-Wall-Push-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Narrow-Grip-Wall-Push-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Navy-Seal-Burpee.gif",
+      "PackagePath": "staticwebassets/img/gifs/Navy-Seal-Burpee.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Neck-Extension-Stretching-360x360.png",
+      "PackagePath": "staticwebassets/img/gifs/Neck-Extension-Stretching-360x360.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Neck-Flexion-Stretch-360x360.png",
+      "PackagePath": "staticwebassets/img/gifs/Neck-Flexion-Stretch-360x360.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Oblique-Floor-Crunches.gif",
+      "PackagePath": "staticwebassets/img/gifs/Oblique-Floor-Crunches.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Barbell-Row-.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Barbell-Row-.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Bent-Over-Cable-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Bent-Over-Cable-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Biceps-Curl-1.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Biceps-Curl-1.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Biceps-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Biceps-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Cable-Bicep-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Cable-Bicep-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Cable-Chest-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Cable-Chest-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Cable-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Cable-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Chin-Up.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Chin-Up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Dumbbell-Upright-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Dumbbell-Upright-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Kettlebell-Chest-Press-on-the-Bench.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Kettlebell-Chest-Press-on-the-Bench.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Kettlebell-Snatch-exercise.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Kettlebell-Snatch-exercise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Landmine-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Landmine-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Lying-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Lying-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Pronated-Dumbbell-Triceps-Extension-.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Pronated-Dumbbell-Triceps-Extension-.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Prone-Dumbbell-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Prone-Dumbbell-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Push-Ups-With-Support.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Push-Ups-With-Support.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-Arm-Reverse-Push-Down.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-Arm-Reverse-Push-Down.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-arm-Cable-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-arm-Cable-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/One-arm-triceps-pushdown.gif",
+      "PackagePath": "staticwebassets/img/gifs/One-arm-triceps-pushdown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Pec-Deck-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Pec-Deck-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Pike-Push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Pike-Push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Pistol-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Pistol-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Plank-with-Arm-and-Leg-Lift.gif",
+      "PackagePath": "staticwebassets/img/gifs/Plank-with-Arm-and-Leg-Lift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Plyo-Jacks.gif",
+      "PackagePath": "staticwebassets/img/gifs/Plyo-Jacks.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Posterior-Tibialis-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Posterior-Tibialis-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Power-Skips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Power-Skips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Prone-Cervical-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Prone-Cervical-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Prone-Incline-Biceps-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Prone-Incline-Biceps-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Punches.gif",
+      "PackagePath": "staticwebassets/img/gifs/Punches.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Push-Up-Medicine-Ball.gif",
+      "PackagePath": "staticwebassets/img/gifs/Push-Up-Medicine-Ball.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Push-Up-Plus.gif",
+      "PackagePath": "staticwebassets/img/gifs/Push-Up-Plus.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Push-up-Toe-Touch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Push-up-Toe-Touch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Push-up-With-Push-up-Bars.gif",
+      "PackagePath": "staticwebassets/img/gifs/Push-up-With-Push-up-Bars.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Pushdown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Pushdown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Quarter-Sit-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Quarter-Sit-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reaction-Ball-Throw-Agility-Ball-Drill-.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reaction-Ball-Throw-Agility-Ball-Drill-.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Rear-Delt-Machine-Flys.gif",
+      "PackagePath": "staticwebassets/img/gifs/Rear-Delt-Machine-Flys.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Recumbent-Exercise-Bike.gif",
+      "PackagePath": "staticwebassets/img/gifs/Recumbent-Exercise-Bike.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Resistance-Band-Bent-Over-Rear-Delt-Fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/Resistance-Band-Bent-Over-Rear-Delt-Fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Resistance-Band-Foot-External-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Resistance-Band-Foot-External-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Resistance-Band-Pull-Apart.gif",
+      "PackagePath": "staticwebassets/img/gifs/Resistance-Band-Pull-Apart.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Crunch-1.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Crunch-1.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Grip-Barbell-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Grip-Barbell-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Grip-Dumbbell-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Grip-Dumbbell-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Grip-EZ-Bar-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Grip-EZ-Bar-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Grip-Incline-Dumbbell-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Grip-Incline-Dumbbell-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Grip-Machine-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Grip-Machine-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Grip-Pushdown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Grip-Pushdown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Lunge-Knee.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Lunge-Knee.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-Wrist-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-Wrist-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-grip-Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-grip-Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Reverse-plank.gif",
+      "PackagePath": "staticwebassets/img/gifs/Reverse-plank.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Riding-Outdoor-Bicycle.gif",
+      "PackagePath": "staticwebassets/img/gifs/Riding-Outdoor-Bicycle.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Right-Cross-Boxing.gif",
+      "PackagePath": "staticwebassets/img/gifs/Right-Cross-Boxing.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Right-Uppercut-Boxing.gif",
+      "PackagePath": "staticwebassets/img/gifs/Right-Uppercut-Boxing.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Ring-Inverted-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Ring-Inverted-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Roll-Rhomboids.gif",
+      "PackagePath": "staticwebassets/img/gifs/Roll-Rhomboids.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Rope-Climb.gif",
+      "PackagePath": "staticwebassets/img/gifs/Rope-Climb.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Rope-Pushdown.gif",
+      "PackagePath": "staticwebassets/img/gifs/Rope-Pushdown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Rowing-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Rowing-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Run-in-Place-exercise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Run-in-Place-exercise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Run-in-Place.gif",
+      "PackagePath": "staticwebassets/img/gifs/Run-in-Place.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Run.gif",
+      "PackagePath": "staticwebassets/img/gifs/Run.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Russian-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Russian-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/SNAP-JUMPS.gif",
+      "PackagePath": "staticwebassets/img/gifs/SNAP-JUMPS.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Scapula-Dips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Scapula-Dips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Scapula-Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Scapula-Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Scapular-Protraction-and-Retraction.gif",
+      "PackagePath": "staticwebassets/img/gifs/Scapular-Protraction-and-Retraction.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Adductor-Groin-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Adductor-Groin-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Ballerina.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Ballerina.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Behind-the-Neck-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Behind-the-Neck-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Bench-Leg-Pull-in.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Bench-Leg-Pull-in.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Bicep-Curl-With-Resistance-Band.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Bicep-Curl-With-Resistance-Band.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Cable-Rope-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Cable-Rope-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Cable-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Cable-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Calf-Press-on-Leg-Press-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Calf-Press-on-Leg-Press-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Dumbbell-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Dumbbell-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Dumbbell-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Dumbbell-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-EZ-Bar-Overhead-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-EZ-Bar-Overhead-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Hammer-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Hammer-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Hamstring-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Hamstring-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Incline-Dumbbell-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Incline-Dumbbell-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Leg-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Leg-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Oblique-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Oblique-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-One-Arm-Dumbbell-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-One-Arm-Dumbbell-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Rear-Lateral-Dumbbell-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Rear-Lateral-Dumbbell-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Row-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Row-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Scapular-Retraction-Exercise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Scapular-Retraction-Exercise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Side-Crunches.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Side-Crunches.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Straight-Leg-Calf-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Straight-Leg-Calf-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-Zottman-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-Zottman-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-close-grip-concentration-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-close-grip-concentration-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Seated-dumbbell-alternating-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Seated-dumbbell-alternating-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Serratus-Wall-Slide-With-Foam-Roller.gif",
+      "PackagePath": "staticwebassets/img/gifs/Serratus-Wall-Slide-With-Foam-Roller.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Short-Stride-Run.gif",
+      "PackagePath": "staticwebassets/img/gifs/Short-Stride-Run.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Shoulder-Stretch-Behind-Back.gif",
+      "PackagePath": "staticwebassets/img/gifs/Shoulder-Stretch-Behind-Back.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Side-Bridge.gif",
+      "PackagePath": "staticwebassets/img/gifs/Side-Bridge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Side-Lunge-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Side-Lunge-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Side-Neck-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Side-Neck-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Side-Plank-1-360x360.png",
+      "PackagePath": "staticwebassets/img/gifs/Side-Plank-1-360x360.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Side-Push-Neck-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Side-Push-Neck-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Side-Shuttle.gif",
+      "PackagePath": "staticwebassets/img/gifs/Side-Shuttle.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Arm-Cable-Crossover.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Arm-Cable-Crossover.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Arm-Circles.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Arm-Circles.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Arm-Push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Arm-Push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Arm-Reverse-Grip-Cable-Bicep-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Arm-Reverse-Grip-Cable-Bicep-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Calf-Raise-on-Leg-Press-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Calf-Raise-on-Leg-Press-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Dumbbell-Close-grip-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Dumbbell-Close-grip-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Dumbbell-Spider-Hammer-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Dumbbell-Spider-Hammer-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Heel-Drop-Calf-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Heel-Drop-Calf-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Leg-Box-Jump.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Leg-Box-Jump.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Leg-Broad-Jump.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Leg-Broad-Jump.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Leg-Calf-Raises.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Leg-Calf-Raises.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Leg-Calves-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Leg-Calves-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Single-Leg-Donkey-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Single-Leg-Donkey-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Sit-ups.gif",
+      "PackagePath": "staticwebassets/img/gifs/Sit-ups.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Skater.gif",
+      "PackagePath": "staticwebassets/img/gifs/Skater.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Ski-Step.gif",
+      "PackagePath": "staticwebassets/img/gifs/Ski-Step.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Sled-Hack-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Sled-Hack-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Behind-Neck-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Behind-Neck-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Bent-Over-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Bent-Over-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Decline-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Decline-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Good-Morning.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Good-Morning.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Hex-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Hex-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Incline-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Incline-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Smith-Machine-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Smith-Machine-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Sphinx-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Sphinx-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Spider-Plank.gif",
+      "PackagePath": "staticwebassets/img/gifs/Spider-Plank.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Split-Jacks.gif",
+      "PackagePath": "staticwebassets/img/gifs/Split-Jacks.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Split-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Split-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Squat-Hold-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Squat-Hold-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Squat-Tuck-Jump.gif",
+      "PackagePath": "staticwebassets/img/gifs/Squat-Tuck-Jump.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Stability-Ball-Knee-Tuck.gif",
+      "PackagePath": "staticwebassets/img/gifs/Stability-Ball-Knee-Tuck.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Alternating-Dumbbell-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Alternating-Dumbbell-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Barbell-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Barbell-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Barbell-Close-Grip-Military-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Barbell-Close-Grip-Military-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Barbell-Concentration-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Barbell-Concentration-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Barbell-Triceps-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Barbell-Triceps-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Cable-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Cable-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Cable-High-To-Low-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Cable-High-To-Low-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Cable-low-to-high-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Cable-low-to-high-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Cross-Leg-Hamstring-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Cross-Leg-Hamstring-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Dorsiflexion.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Dorsiflexion.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Dumbbell-Overhead-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Dumbbell-Overhead-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Gastrocnemius-Calf-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Gastrocnemius-Calf-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Hamstring-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Hamstring-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Leg-Circles.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Leg-Circles.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Medicine-Ball-Chest-Pass.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Medicine-Ball-Chest-Pass.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Reach-Up-Back-rotation-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Reach-Up-Back-rotation-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Reverse-Shoulder-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Reverse-Shoulder-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Rotation.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Rotation.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Side-Bend-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Side-Bend-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Single-Arm-Upright-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Single-Arm-Upright-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Smith-Machine-Shoulder-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Smith-Machine-Shoulder-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Toe-Flexor-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Toe-Flexor-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Toe-Touch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Toe-Touch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Toe-Up-Achilles-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Toe-Up-Achilles-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-Wall-Calf-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-Wall-Calf-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Standing-one-arm-chest-stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Standing-one-arm-chest-stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Static-Lunge.gif",
+      "PackagePath": "staticwebassets/img/gifs/Static-Lunge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Stationary-Bike-Run.gif",
+      "PackagePath": "staticwebassets/img/gifs/Stationary-Bike-Run.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Step-Up-Opposite-Elbow-to-Knee-Twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/Step-Up-Opposite-Elbow-to-Knee-Twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Step-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Step-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Straight-Bar-Dip.gif",
+      "PackagePath": "staticwebassets/img/gifs/Straight-Bar-Dip.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Sumo-Plie-Dumbbell-Squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/Sumo-Plie-Dumbbell-Squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Superman-exercise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Superman-exercise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Svend-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Svend-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Swimming.gif",
+      "PackagePath": "staticwebassets/img/gifs/Swimming.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/T-Bar-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/T-Bar-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/T-Cross-Sit-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/T-Cross-Sit-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Table-Inverted-Row.gif",
+      "PackagePath": "staticwebassets/img/gifs/Table-Inverted-Row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Teaser-Pilates.gif",
+      "PackagePath": "staticwebassets/img/gifs/Teaser-Pilates.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/The-Box-Jump.gif",
+      "PackagePath": "staticwebassets/img/gifs/The-Box-Jump.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Toe-Extensor-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Toe-Extensor-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Toes-to-Bar.gif",
+      "PackagePath": "staticwebassets/img/gifs/Toes-to-Bar.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Treadmill-.gif",
+      "PackagePath": "staticwebassets/img/gifs/Treadmill-.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Triceps-Dip-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Triceps-Dip-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Triceps-Dips-on-Floor.gif",
+      "PackagePath": "staticwebassets/img/gifs/Triceps-Dips-on-Floor.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Triceps-Dips.gif",
+      "PackagePath": "staticwebassets/img/gifs/Triceps-Dips.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Triceps-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Triceps-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Triceps-dips-on-floors.gif",
+      "PackagePath": "staticwebassets/img/gifs/Triceps-dips-on-floors.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Tuck-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Tuck-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Tuck-Jump.gif",
+      "PackagePath": "staticwebassets/img/gifs/Tuck-Jump.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Twisting-Hyperextension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Twisting-Hyperextension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Two-Arm-Cable-Front-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Two-Arm-Cable-Front-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Two-Arm-Cable-Lateral-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Two-Arm-Cable-Lateral-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Two-Arm-Dumbbell-Front-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Two-Arm-Dumbbell-Front-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Two-dumbbell-preacher-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Two-dumbbell-preacher-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Upavistha-Konasana.gif",
+      "PackagePath": "staticwebassets/img/gifs/Upavistha-Konasana.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Upper-Back-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Upper-Back-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Upside-Down-Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Upside-Down-Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/V-Up-Down-with-Stability-ball.gif",
+      "PackagePath": "staticwebassets/img/gifs/V-Up-Down-with-Stability-ball.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/V-bar-Lat-Pulldown.gif",
+      "PackagePath": "staticwebassets/img/gifs/V-bar-Lat-Pulldown.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Vertical-Mountain-Climber.gif",
+      "PackagePath": "staticwebassets/img/gifs/Vertical-Mountain-Climber.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Vibrate-Plate-Standing.gif",
+      "PackagePath": "staticwebassets/img/gifs/Vibrate-Plate-Standing.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Walk-Wave-Machine.gif",
+      "PackagePath": "staticwebassets/img/gifs/Walk-Wave-Machine.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Walking-High-Knee-Lunges.gif",
+      "PackagePath": "staticwebassets/img/gifs/Walking-High-Knee-Lunges.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Walking-on-Stepmill.gif",
+      "PackagePath": "staticwebassets/img/gifs/Walking-on-Stepmill.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Walking.gif",
+      "PackagePath": "staticwebassets/img/gifs/Walking.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wall-Push-ups.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wall-Push-ups.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wall-Sit-238x360.png",
+      "PackagePath": "staticwebassets/img/gifs/Wall-Sit-238x360.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Water-Bottle-Hammer-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Water-Bottle-Hammer-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weight-Plate-Front-Raise-1.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weight-Plate-Front-Raise-1.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Crunch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Crunch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Donkey-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Donkey-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Front-Plank.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Front-Plank.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Lying-Neck-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Lying-Neck-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Lying-Neck-Flexion.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Lying-Neck-Flexion.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Neck-Harness-Extension.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Neck-Harness-Extension.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-One-Arm-Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-One-Arm-Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Pull-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Pull-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Seated-Calf-Raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Seated-Calf-Raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Side-Bend-on-stability-ball.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Side-Bend-on-stability-ball.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Weighted-Wrist-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Weighted-Wrist-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wheel-Run.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wheel-Run.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wide-Grip-Alternate-Barbell-Bent-Over-Row-Plus.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wide-Grip-Alternate-Barbell-Bent-Over-Row-Plus.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wide-Grip-Barbell-Bench-Press.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wide-Grip-Barbell-Bench-Press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wide-Grip-Barbell-Bent-Over-Row-Plus.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wide-Grip-Barbell-Bent-Over-Row-Plus.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wrist-Circles-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wrist-Circles-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wrist-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wrist-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Wrist-Ulnar-Deviator-And-Extensor-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/Wrist-Ulnar-Deviator-And-Extensor-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Z-Bar-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Z-Bar-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Z-Bar-Preacher-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/Z-Bar-Preacher-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/Zig-Zag-Hops-Plyometric.gif",
+      "PackagePath": "staticwebassets/img/gifs/Zig-Zag-Hops-Plyometric.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/abdominal-stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/abdominal-stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/arm-circles.gif",
+      "PackagePath": "staticwebassets/img/gifs/arm-circles.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/barbell-Wrist-Curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/barbell-Wrist-Curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/barbell-rack-pull.gif",
+      "PackagePath": "staticwebassets/img/gifs/barbell-rack-pull.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/barbell-uprightrow.gif",
+      "PackagePath": "staticwebassets/img/gifs/barbell-uprightrow.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/bent-over-reverse-cable-fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/bent-over-reverse-cable-fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/bodyweight-lunges.gif",
+      "PackagePath": "staticwebassets/img/gifs/bodyweight-lunges.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/bodyweight-walking-lunge.gif",
+      "PackagePath": "staticwebassets/img/gifs/bodyweight-walking-lunge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/burpees.gif",
+      "PackagePath": "staticwebassets/img/gifs/burpees.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/cable-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/cable-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/cable-preacher-curls.gif",
+      "PackagePath": "staticwebassets/img/gifs/cable-preacher-curls.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/cable-rear-delt-fly.gif",
+      "PackagePath": "staticwebassets/img/gifs/cable-rear-delt-fly.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/cable-y-raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/cable-y-raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/close-grip-barbell-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/close-grip-barbell-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/close-grip-cable-row.gif",
+      "PackagePath": "staticwebassets/img/gifs/close-grip-cable-row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/converter.py",
+      "PackagePath": "staticwebassets/img/gifs/converter.py"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/dead-hang.png",
+      "PackagePath": "staticwebassets/img/gifs/dead-hang.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/dumbbell-cuban-press-.gif",
+      "PackagePath": "staticwebassets/img/gifs/dumbbell-cuban-press-.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/dumbbell-deadlifts.gif",
+      "PackagePath": "staticwebassets/img/gifs/dumbbell-deadlifts.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/dumbbell-lunges.gif",
+      "PackagePath": "staticwebassets/img/gifs/dumbbell-lunges.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/dumbbell-reverse-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/dumbbell-reverse-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/dumbbell-scot-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/dumbbell-scot-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/dumbbell-sumo-deadlift.gif",
+      "PackagePath": "staticwebassets/img/gifs/dumbbell-sumo-deadlift.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/elbow-flexion.gif",
+      "PackagePath": "staticwebassets/img/gifs/elbow-flexion.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/exercises.json",
+      "PackagePath": "staticwebassets/img/gifs/exercises.json"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/front-squat.gif",
+      "PackagePath": "staticwebassets/img/gifs/front-squat.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/handstand-push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/handstand-push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/lying-cable-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/lying-cable-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/overhead-cable-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/overhead-cable-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/overhead-shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/overhead-shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/parallel-bar-dip.gif",
+      "PackagePath": "staticwebassets/img/gifs/parallel-bar-dip.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/plank.gif",
+      "PackagePath": "staticwebassets/img/gifs/plank.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/power-lunge.gif",
+      "PackagePath": "staticwebassets/img/gifs/power-lunge.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/push-press-1.gif",
+      "PackagePath": "staticwebassets/img/gifs/push-press-1.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/reverse-Wrist-Stretch.gif",
+      "PackagePath": "staticwebassets/img/gifs/reverse-Wrist-Stretch.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/rope-bicep-curls.gif",
+      "PackagePath": "staticwebassets/img/gifs/rope-bicep-curls.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/scott-press.gif",
+      "PackagePath": "staticwebassets/img/gifs/scott-press.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/seated-biceps-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/seated-biceps-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/seated-dumbbell-front-raise.gif",
+      "PackagePath": "staticwebassets/img/gifs/seated-dumbbell-front-raise.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/shadow-boxing-workout.gif",
+      "PackagePath": "staticwebassets/img/gifs/shadow-boxing-workout.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/shotgun-row.gif",
+      "PackagePath": "staticwebassets/img/gifs/shotgun-row.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/smith-machine-shrug.gif",
+      "PackagePath": "staticwebassets/img/gifs/smith-machine-shrug.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/sprint.gif",
+      "PackagePath": "staticwebassets/img/gifs/sprint.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/stability-ball-decline-push-ups.gif",
+      "PackagePath": "staticwebassets/img/gifs/stability-ball-decline-push-ups.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/stability-ball-push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/stability-ball-push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/standing-cable-twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/standing-cable-twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/swiss-ball-rollout.gif",
+      "PackagePath": "staticwebassets/img/gifs/swiss-ball-rollout.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/waiter-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/waiter-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/wall-supported-handstand-push-up.gif",
+      "PackagePath": "staticwebassets/img/gifs/wall-supported-handstand-push-up.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/weighted-hanging-knee-raises.gif",
+      "PackagePath": "staticwebassets/img/gifs/weighted-hanging-knee-raises.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/weighted-lying-twist.gif",
+      "PackagePath": "staticwebassets/img/gifs/weighted-lying-twist.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/weighted-round-arm.gif",
+      "PackagePath": "staticwebassets/img/gifs/weighted-round-arm.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/weightedsitups.gif",
+      "PackagePath": "staticwebassets/img/gifs/weightedsitups.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/wrist-roller.gif",
+      "PackagePath": "staticwebassets/img/gifs/wrist-roller.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/gifs/zottman-curl.gif",
+      "PackagePath": "staticwebassets/img/gifs/zottman-curl.gif"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/googleLogo.png",
+      "PackagePath": "staticwebassets/img/googleLogo.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/img/logo3.png",
+      "PackagePath": "staticwebassets/img/logo3.png"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/Notifications.js",
+      "PackagePath": "staticwebassets/js/Notifications.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/account.js",
+      "PackagePath": "staticwebassets/js/account.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/exercise_stats.js",
+      "PackagePath": "staticwebassets/js/exercise_stats.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/facebookSDK.js",
+      "PackagePath": "staticwebassets/js/facebookSDK.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/log.js",
+      "PackagePath": "staticwebassets/js/log.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/routines.js",
+      "PackagePath": "staticwebassets/js/routines.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/shared.js",
+      "PackagePath": "staticwebassets/js/shared.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/social.js",
+      "PackagePath": "staticwebassets/js/social.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/stats.js",
+      "PackagePath": "staticwebassets/js/stats.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/js/workouts.js",
+      "PackagePath": "staticwebassets/js/workouts.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/joneviste/gitReps/trainer/trainer/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.trainer.props",
+      "PackagePath": "build\\trainer.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.trainer.props",
+      "PackagePath": "buildMultiTargeting\\trainer.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.trainer.props",
+      "PackagePath": "buildTransitive\\trainer.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.trainer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

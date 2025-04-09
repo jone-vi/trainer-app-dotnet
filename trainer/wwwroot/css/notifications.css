@@ -1,0 +1,100 @@
+#notificationsContainer {
+    position: fixed;
+    text-align: center;
+    top: 50vh; /* Using viewport height */
+    left: 9vw; /* Using viewport width */
+    width: 25vw; /* Using viewport width */
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    border-radius: 8px;
+    padding: 10px;
+    height: 20vw; /* Adjust height dynamically */
+    z-index: 100;
+}
+
+/* Hide scrollbar for WebKit browsers like Chrome and Safari */
+#notificationsList::-webkit-scrollbar {
+    display: none; /* Hide scrollbar in WebKit browsers */
+}
+
+/* Hide scrollbar for Firefox */
+#notificationsList {
+    scrollbar-width: none; /* Hide scrollbar in Firefox */
+}
+
+#notificationsList {
+    overflow-y: auto;
+    height: 100%; /* Inherits the height from the parent container */
+    width: 100%; /* Full width relative to the parent container */
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.notification-item {
+    background-color: #636366;
+    color: white;
+    margin-bottom: 1vh; /* Responsive margin */
+    padding: 1vh; /* Responsive padding */
+    border-radius: 8px;
+    width: 100%; /* Full width of the parent container */
+    align-items: flex-start;
+    text-decoration: none;
+}
+
+
+
+
+#navNotifications a {
+    position: relative; /* This allows absolute positioning relative to the link */
+}
+
+#navNotificationsVertical{
+    cursor: pointer;
+}
+
+.notification-item{
+    cursor: pointer;
+}
+
+/* Styles for notification dot when vertical */
+.has-notifications::after {
+    content: '';
+    position: absolute;
+    top: 0.6vw;
+    right: 2.3vw;
+    width: 1rem;
+    height: 1rem;
+    background-color: green;
+    border-radius: 50%;
+    border: 0.125rem solid white;
+}
+
+
+/* Media query for when the bottom bar is visible */
+@media (max-width: 767px) {
+     .has-notifications::after {
+        /* Show and position the dot for the horizontal menu */
+        display: block;
+        position: absolute;
+        bottom: 3vw; /* Position it 10px from the bottom of the icon */
+        top: auto; 
+        left: 3vw; /* Start with centering horizontally */
+        transform: translateX(-50%); /* Adjust horizontal position to center it */
+        /* Adjust the values of bottom and left to position the dot correctly relative to the bell icon */
+    }
+}
+
+
+@media (max-width: 768px) {
+    #notificationsContainer {
+        position: fixed; /* Keeps the element positioned relative to the viewport */
+        left: 50%; /* Centers the element horizontally */
+        transform: translate(-50%, -50%); /* Adjusts the positioning to truly center the element */
+        width: 45vw;
+        bottom: 1vh; /* Adjust for smaller screens */
+        right: 10vw;
+        top: auto;
+    }
+}
+
+

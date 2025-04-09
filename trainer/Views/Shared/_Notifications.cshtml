@@ -1,0 +1,35 @@
+@model trainer.ViewModels.NotificationViewModel
+
+    
+   <div id="notificationsList" >
+       @if (Model.Requests.Any() || Model.SharedWorkouts.Any() || Model.SharedRoutines.Any())
+       {
+           // Friend requests
+           foreach (var request in Model.Requests)
+           {
+               <a asp-area="" asp-controller="Social" asp-action="Friends" style="text-decoration: none;">
+                   <div xmlns="http://www.w3.org/2000/svg" class="notification-item">@request.UserName.Split('@')[0] Sent you a Friend Request</div>
+               </a>
+           }
+           // Shared workouts
+           foreach (var workout in Model.SharedWorkouts)
+           {
+               <a asp-area="" asp-controller="PendingShares" asp-action="Manage" style="text-decoration: none;">
+                   <div class="notification-item">@workout.PendingWorkout.ApplicationUser.Nickname Shared a workout</div>
+               </a>
+           }
+           // Shared routines
+           foreach (var routine in Model.SharedRoutines)
+           {
+               <a asp-area="" asp-controller="PendingShares" asp-action="Manage" style="text-decoration: none;">
+                   <div class="notification-item">@routine.PendingRoutine.ApplicationUser.Nickname Shared a routine</div>
+               </a>
+           }
+       }
+       else
+       {
+           <div class="notification-item_empty">No new notifications</div>
+       }
+   </div>
+
+
