@@ -4,27 +4,26 @@ The application is meant for being a dashboard for creating and logging workouts
 ## Design
 
 ### Landing Page
-<img src="images/Login Page.png" alt="Login Page" width="600"/>
+<img src="images/Login Page.png" alt="Login Page" width="90%"/>
 
 ### Dashboard
-<img src="images/Main Menu.png" alt="Main Menu Page" width="600"/>
-
+<img src="images/Main Menu.png" alt="Main Menu Page" width="90%"/>
 
 ### Workouts
-<img src="images/Workout Pages.png" alt="Workout Pages" width="600"/>
+<img src="images/Workout Pages.png" alt="Workout Pages" width="90%"/>
 
 ### Admin
-<img src="images/Admin Pages.png" alt="Admin Pages" width="600"/>
+<img src="images/Admin Pages.png" alt="Admin Pages" width="90%"/>
 
 ### Logging Workouts
-<img src="images/Log Pages.png" alt="Log Pages" width="600"/>
+<img src="images/Log Pages.png" alt="Log Pages" width="90%"/>
 
 ### Visualize the Log
-<img src="images/Stat Graph.png" alt="Graph" width="600"/>
+<img src="images/Stat Graph.png" alt="Graph" width="90%"/>
 
 ### Social
-<img src="images/Social Pages.png" alt="Social Pages" width="600"/>
-<img src="images/Sharing Pages.png" alt="Sharing Pages" width="600"/>
+<img src="images/Social Pages.png" alt="Social Pages" width="90%"/>
+<img src="images/Sharing Pages.png" alt="Sharing Pages" width="90%"/>
 
 
 -------------------------------------------------------------------------------------------------------------------
