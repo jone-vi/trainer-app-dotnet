@@ -1,4 +1,35 @@
-Tools to install in rider terminal: 
+# Trainer Web-Application
+The application is meant for being a dashboard for creating and logging workouts.
+
+## Design
+
+### Landing Page
+<img src="images/Login Page.png" alt="Login Page" width="600"/>
+
+### Dashboard
+<img src="images/Main Menu.png" alt="Main Menu Page" width="600"/>
+
+
+### Workouts
+<img src="images/Workout Pages.png" alt="Workout Pages" width="600"/>
+
+### Admin
+<img src="images/Admin Pages.png" alt="Admin Pages" width="600"/>
+
+### Logging Workouts
+<img src="images/Log Pages.png" alt="Log Pages" width="600"/>
+
+### Visualize the Log
+<img src="images/Stat Graph.png" alt="Graph" width="600"/>
+
+### Social
+<img src="images/Social Pages.png" alt="Social Pages" width="600"/>
+<img src="images/Sharing Pages.png" alt="Sharing Pages" width="600"/>
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+## Tools to install in rider terminal: 
 
 User managment tools: \
 dotnet tool install --global dotnet-ef \
@@ -8,13 +39,13 @@ dotnet add package Microsoft.EntityFrameworkCore.Design -v 7.0.11 \
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer -v 7.0.11 \
 dotnet add package Npgsql -v 7.0.4 
 
-Other API tools: \
+### Other API tools: \
 SendGrind (Email service): dotnet add package SendGrid \
 OpenAI (Chat GPT API): dotnet add package OpenAI --version 1.7.2 \
 dotnet add package Microsoft.AspNetCore.Authentication.Google --version 7.0.11 
 
 -------------------------------------------------------------------------------------------------------------------
-Files to generate for user managment: \
+### Files to generate for user managment: \
 dotnet aspnet-codegenerator identity -fi "Account.Register" --dbContext ApplicationDbContext \
 dotnet aspnet-codegenerator identity -fi "Account.Manage.Index" --dbContext ApplicationDbContext \
 dotnet aspnet-codegenerator identity -fi "Account.Manage._StatusMessage" --dbContext ApplicationDbContext \
@@ -28,26 +59,7 @@ dotnet aspnet-codegenerator identity -fi "Account.ConfirmEmailChange" --dbContex
 dotnet aspnet-codegenerator identity -fi "Account._StatusMessage" --dbContext ApplicationDbContext 
 
 -------------------------------------------------------------------------------------------------------------------
-API Keys: \
-OpenAI: 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 \
-SendGrid: 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 
-
--------------------------------------------------------------------------------------------------------------------
-Other Commands and things: \
-List files that can be generated (edit if you need other files than identity): dotnet aspnet-codegenerator identity --listFiles -f 
-
-Google Sign In Client ID: 1093546593474-s7m72ijc23u0fabiotvkql681vjnvtb5.apps.googleusercontent.com \
-Google Sign In Client Secret: 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 
-
-To enable email sending you have to set the sendGrid api key in the windows secret-maneger tool:\
-dotnet user-secrets set SendGridKey <key>
-
-To enable external google login you have to set the client ID and client secret:\
-dotnet user-secrets set "Authentication:Google:ClientId" "client id"\
-dotnet user-secrets set "Authentication:Google:ClientSecret" "client secret>"
-
--------------------------------------------------------------------------------------------------------------------
-How to run and work on project.
+### How to run and work on project.
 1. Install the User managment tools
 2. Install the API tools
 3. Set the different secret keys
